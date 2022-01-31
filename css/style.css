@@ -1,0 +1,61 @@
+.header .time{
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.hed .central h4{
+    font-weight: 700;
+    font-size: 30px;
+}
+.hed .central h5{
+    font-weight: 700;
+    font-size: 36px;
+}
+.hed .central h6{ 
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.cash-memp .case h3{
+    margin-bottom: 40px;
+}
+.memo .ref{
+    font-weight: 700;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.logo img{
+    width: 150px;
+}
+.slr .sl p{
+    font-weight: 700;
+}
+.main .paid p{
+    font-weight: 700;
+    font-size: 50px;
+    
+}
+.main .paid h6{
+    font-weight: 700;
+    
+}
+.only .in p{
+    font-weight: 700;
+}
+.onl .int p{
+    font-weight: 700;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.onl .int h6{
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.onle .ine p{
+    font-weight: 500;
+    font-size: 25px;
+    margin-top: 30px;
+}
+.onlr .inr p{
+    margin: 20px;
+    font-weight: 600;
+}
